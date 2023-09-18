@@ -5,3 +5,7 @@ Daniel Thai        dthai
 Lei Xiao           lxiao4
 Brandon Misunis    misunis
 Pollo Latysheva    latyshev
+
+
+
+tar -czf a1.tgz   <all-the-files-to-be-included>
