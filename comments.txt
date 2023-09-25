@@ -8,7 +8,7 @@ Lei Xiao - lxiao4
     The diagram is well organized. I noticed both of the attributes "short text" and "long text" are underlined, I think the entity "URL" should only have one unique attribute. From: ceddie1
 
 Brandon Misunis - misunis
-    I think there should be a participation constraint between the entity "tweet" and the relationship "write". Otherwise, the constraints look good. From: ceddie1
+    I think there should be a participation constraint between the entity "tweet" and the relationship "write". Otherwise, the diagram look good. From: ceddie1
 
 Pollo Latysheva - latyshev
 
