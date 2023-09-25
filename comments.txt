@@ -1,7 +1,6 @@
 Christian Eddie - ceddie1
     The ER model looks amazing, we have some similar features thus I assume we agree on the relationships. I thought your comment was a bit harsh, and you should have a more professional relationship with your group members such as showering before coming to our meetings. From: dthai
 
-
 Daniel Thai - dthai
     The two relationships "retweet" and "follow" are connected. Relationships should be between two entities. From: ceddie1
 
