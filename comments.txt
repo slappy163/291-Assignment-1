@@ -1,6 +1,6 @@
 Christian Eddie's comments:
     Daniel Thai - The two relationships "retweet" and "follow" are connected. Relationships should be between two entities.
 
-    Brandon Misunis - The entity "tweet" must participate in the "write" relationship.
+    Brandon Misunis - I think there should be a participation constraint between the entity "tweet" and the relationship "write".
 
-    Lei Xiao (George) - Both of the attributes "short text" and "long text" are underlined. The entity "URL" can only have one unique attribute.
+    Lei Xiao (George) - Both of the attributes "short text" and "long text" are underlined. I think the entity "URL" should only have one unique attribute.
