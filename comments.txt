@@ -2,7 +2,7 @@ Christian Eddie - ceddie1
     The ER model looks amazing, we have some similar features thus I assume we agree on the relationships. I thought your comment was a bit harsh, and you should have a more professional relationship with your group members such as showering before coming to our meetings. From: dthai
 
 Daniel Thai - dthai
-    The two relationships "retweet" and "follow" are connected. Relationships should be between two entities. Daniel is also mean to me and hurts my feelings. From: ceddie1
+    The two relationships "retweet" and "follow" are connected. Relationships should be between two entities. Daniel is also a meanie and hurts my feelings. From: ceddie1
 
 Lei Xiao - lxiao4
     The diagram is well organized. I noticed both of the attributes "short text" and "long text" are underlined, I think the entity "URL" should only have one unique attribute. From: ceddie1
