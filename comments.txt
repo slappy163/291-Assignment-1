@@ -9,7 +9,7 @@ Lei Xiao - lxiao4
     Your diagram is organized. The horizontal and vertical lines provide your model with an organized aesthetic. Good job! From: dthai
 
 Brandon Misunis - misunis
-    I think there should be a participation constraint between the entity "tweet" and the relationship "write". Otherwise, the constraints look good. From: ceddie1
+    I think there should be a participation constraint between the entity "tweet" and the relationship "write". Otherwise, the diagram looks good. From: ceddie1
 
 Pollo Latysheva - latyshev
     At first thought, ISA hierarchy seems most appropriate for the subset of a user, and in yours, you chose to omit the bots from the ISA hierarchy. This representation of the description is understandable and makes sense. Because it can be unknown if they can be considered as a user. Brilliant! From: dthai
