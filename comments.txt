@@ -15,9 +15,12 @@ Lei Xiao - lxiao4
 Brandon Misunis - misunis
     I think there should be a participation constraint between the entity "tweet" and the relationship "write". Otherwise, the diagram looks good. From: ceddie1
 
+    I feel slightly confused as to why each user can own at most one bot. In my opinion, user should be able to create as many bots as they want. However, I am fascinated by the idea  of considering bots as a subtype of users. This could provide them with a similar functionality to users - they would be able to write tweets, comment on them etc. The only question is whether we want to give the bots the same rights and functionality as to users. After all, the platform exists for the users and maybe it would make sense to provide humans with more or different tools. Either way, I think it's an interesting topic for a discussion. From: latyshev
+
 Pollo Latysheva - latyshev
     At first thought, ISA hierarchy seems most appropriate for the subset of a user, and in yours, you chose to omit the bots from the ISA hierarchy. This representation of the description is understandable and makes sense. Because it can be unknown if they can be considered as a user. Brilliant! From: dthai
 
 Shubhkaran Dhillon - shubhka1
     From your model, you placed "no label" as an entity under the ISA hierarchy. I believe the more appropriate representation of no label is to remove this entity under the ISA hierarchy. Users can be of themselves, thus being a "user" has no label. Great work though! From: dthai
+    I do not exactly understand the purpose of "no label" entity under ISA. In addition to that, I think it would be a good idea to remove the arrow from bots to ISA and replace it just with a line. Also, I'm not sure if making "Follow" a separate entiity is the best design choice as it probably would be easier to just use a relationship from the user to itself; However, it is an interested argument that we might need to send notifications to the people who are subscribed to one another, so actually maybe this design is worth futher investigation. I like the idea of making favorite lists a weak entity! They should not exist without their creator. From: latyshev
 
