@@ -19,4 +19,4 @@ Shubhkaran Dhillon - shubhka1
     From your model, you placed "no label" as an entity under the ISA hierarchy. I believe the more appropriate representation of no label is to remove this entity under the ISA hierarchy. Users can be of themselves, thus being a "user" has no label. Great work though! From: dthai
 
 Lei Xiao - lxiao4
-       The ER model looks good. I believe that there is no need of PaidSubscription as an attribute. O verall, the diagram looks perfect. Great Job! From: shubhka1
+       The ER model looks good. I believe that there is no need of PaidSubscription as an attribute. Overall, the diagram looks perfect. Great Job! From: shubhka1
