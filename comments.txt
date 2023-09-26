@@ -1,13 +1,16 @@
 Christian Eddie - ceddie1
     The ER model looks amazing, we have some similar features thus I assume we agree on the relationships. I thought your comment was a bit harsh, and you should have a more professional relationship with your group members such as showering before coming to our meetings. From: dthai
     This ER model looks very aesthetically pleasing it's very well organized and easy to follow. From: misunis
+    This ER diagram looks good to me, since most of the concept matches what I did, whereas, I personaly consider that the Entity FavoriteList should be as an weak entity of users, since different user can have their list with the same name, and the name of two lists of one user can't be the same. However, overall, nice work. From: Lei Xiao(lxiao4)
 
 Daniel Thai - dthai
     The two relationships "retweet" and "follow" are connected. Relationships should be between two entities. Daniel is also a meanie and hurts my feelings. From: ceddie1
+    This ER diagram is well-organized, correctly shows most of details in the assignment summary, however, one thing that I noticed from this diagarm is that two relations are connected together, which isn't correct refers to what instructor taught in the class. From: leiXiao(lxiao4)  
 
 Lei Xiao - lxiao4
     The diagram is well organized. I noticed both of the attributes "short text" and "long text" are underlined, I think the entity "URL" should only have one unique attribute. From: ceddie1
     Your diagram is organized. The horizontal and vertical lines provide your model with an organized aesthetic. Good job! From: dthai
+    The ER model looks good. I believe that there is no need of PaidSubscription as an attribute. Overall, the diagram looks perfect. Great Job! From: shubhka1
 
 Brandon Misunis - misunis
     I think there should be a participation constraint between the entity "tweet" and the relationship "write". Otherwise, the diagram looks good. From: ceddie1
@@ -18,5 +21,3 @@ Pollo Latysheva - latyshev
 Shubhkaran Dhillon - shubhka1
     From your model, you placed "no label" as an entity under the ISA hierarchy. I believe the more appropriate representation of no label is to remove this entity under the ISA hierarchy. Users can be of themselves, thus being a "user" has no label. Great work though! From: dthai
 
-Lei Xiao - lxiao4
-       The ER model looks good. I believe that there is no need of PaidSubscription as an attribute. Overall, the diagram looks perfect. Great Job! From: shubhka1
